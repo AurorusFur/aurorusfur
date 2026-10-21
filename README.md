@@ -1,21 +1,15 @@
-<h1 align="center">Hi 👋, I am Michał</h1>
+# Hi, I'm Michał 👋
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=aurorusfur&show_icons=true&theme=tokyonight" alt="stats">
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurorusfur&layout=compact&theme=tokyonight" alt="used languages">
-</div>
-<!--
-**AurorusFur/aurorusfur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from Wrocław, Poland, with 4+ years of commercial experience building web applications with **React**, **TypeScript** and **.NET**.
 
-Here are some ideas to get you started:
+- 💼 Building B2B web applications – frontend, backend, Azure resources and CI/CD pipelines in Azure DevOps
+- 🌱 Currently learning: microservice architecture with .NET
+- ⚡ Fun fact: I learned Java by writing Minecraft server plugins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+[![Tech stack](https://skillicons.dev/icons?i=react,ts,js,vite,cs,dotnet,java,azure,git)](https://skillicons.dev)
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/michal-cynka/) · cynkamichal@gmail.com
